@@ -1,3 +1,5 @@
+# Project README
+
 ## Introduction
 
 This project is based on the course "Intro to Vue 3" provided by Vue Mastery. The course aims to introduce you to the basics of Vue.js version 3, a progressive JavaScript framework for building user interfaces.
@@ -17,25 +19,27 @@ To get started with the project, follow these steps:
 
 1. Clone the project repository:
 
-
+   ```shell
    git clone https://github.com/vuejs-mastery/intro-to-vue-3.git
-
+   ```
 
 2. Change into the project directory:
 
-
+   ```shell
    cd intro-to-vue-3
-
+   ```
 
 3. Install project dependencies:
 
-
+   ```shell
    npm install
+   ```
 
 4. Start the development server:
 
+   ```shell
    npm run serve
-
+   ```
 
 5. Open your web browser and visit `http://localhost:8080` to see the running application.
 
